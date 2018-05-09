@@ -1,0 +1,48 @@
+#include<stdio.h>
+#include<stdlib.h>
+#define MAX 10
+typedef int data_t;
+typedef struct
+{
+	data_t data[MAX];
+	int front;
+	int rear;
+}sequeue_t;
+sequeue_t *CreatEmptySequeue();
+{
+
+}
+int EmptySequeue(sequeue_t *sq)
+{
+
+}
+int FullSequeue(sequeueue *sq)
+{
+
+}
+int ClearSequeue(sequeue_t *sq)
+{
+
+}
+int EnQueue(sequeue_t *sq,data_t value)
+{
+
+}
+data_t DeQueue(sequeue_t *sq)
+{
+
+}
+int main()
+{
+     EnQueue();
+	 EnQueue();
+	 Deueue();
+	 printf();
+     EnQueue();
+	 printf();
+	 EnQueue();
+	 printf();
+	EmptySequeue();
+	FullSequeue();
+}
+
